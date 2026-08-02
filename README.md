@@ -4,6 +4,8 @@ A premium, interactive web application and machine learning pipeline that classi
 
 The project features a **Scikit-Learn Random Forest pipeline** served via a **FastAPI backend** and a **responsive, glassmorphic dashboard UI** utilizing vanilla HTML, CSS, and JavaScript.
 
+🔗 **Live Demo:** [https://ml-newyorkdatahousingtype-classification.onrender.com](https://ml-newyorkdatahousingtype-classification.onrender.com)
+
 ---
 
 ## 📋 Table of Contents
